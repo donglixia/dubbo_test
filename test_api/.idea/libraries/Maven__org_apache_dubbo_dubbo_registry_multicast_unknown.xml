@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.dubbo:dubbo-registry-multicast:unknown">
+    <CLASSES>
+      <root url="jar://D:/code/.m2/repository/org/apache/dubbo/dubbo-registry-multicast/unknown/dubbo-registry-multicast-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/code/.m2/repository/org/apache/dubbo/dubbo-registry-multicast/unknown/dubbo-registry-multicast-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/code/.m2/repository/org/apache/dubbo/dubbo-registry-multicast/unknown/dubbo-registry-multicast-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

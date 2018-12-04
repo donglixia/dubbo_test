@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.dubbo:dubbo-registry-zookeeper:unknown">
+    <CLASSES>
+      <root url="jar://D:/code/.m2/repository/org/apache/dubbo/dubbo-registry-zookeeper/unknown/dubbo-registry-zookeeper-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/code/.m2/repository/org/apache/dubbo/dubbo-registry-zookeeper/unknown/dubbo-registry-zookeeper-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/code/.m2/repository/org/apache/dubbo/dubbo-registry-zookeeper/unknown/dubbo-registry-zookeeper-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.dubbo:dubbo-rpc-dubbo:unknown">
+    <CLASSES>
+      <root url="jar://D:/code/.m2/repository/org/apache/dubbo/dubbo-rpc-dubbo/unknown/dubbo-rpc-dubbo-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/code/.m2/repository/org/apache/dubbo/dubbo-rpc-dubbo/unknown/dubbo-rpc-dubbo-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/code/.m2/repository/org/apache/dubbo/dubbo-rpc-dubbo/unknown/dubbo-rpc-dubbo-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
