@@ -6,7 +6,7 @@
         <element id="directory" name="META-INF">
           <element id="file-copy" path="$PROJECT_DIR$/../new/META-INF/MANIFEST.MF" />
         </element>
-        <element id="module-output" name="test_api" />
+        <element id="module-output" name="dubbo_test" />
       </element>
       <element id="library" level="project" name="Maven: com.alibaba:dubbo:2.5.3" />
       <element id="library" level="project" name="Maven: junit:junit:4.8.2" />

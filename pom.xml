@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>gf</groupId>
-    <artifactId>test_api</artifactId>
+    <artifactId>dubbo_test</artifactId>
     <version>1.0-SNAPSHOT</version>
     <dependencies>
         <dependency>
